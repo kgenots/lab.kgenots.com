@@ -1,0 +1,2 @@
+(this["webpackJsonp@kgenots/lab"]=this["webpackJsonp@kgenots/lab"]||[]).push([[17],{746:function(e,s,t){"use strict";t.r(s);t(2);var a=t(24);s.default=function(e){return Object(a.jsx)("div",{className:"e-body",children:Object(a.jsx)("div",{className:"canvas_wrapper",children:Object(a.jsx)("iframe",{height:"100%",width:"100%",src:"https://3dviewer.net/"})})})}}}]);
+//# sourceMappingURL=17.1d774827.chunk.js.map
